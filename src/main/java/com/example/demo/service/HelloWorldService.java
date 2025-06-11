@@ -1,4 +1,4 @@
-package com.my.company.service;
+package com.example.demo.service;
 
 import static java.io.File.createTempFile;
 
